@@ -1,1 +1,0 @@
-/usr/bin/cc  -fsanitize=address,leak,undefined -g CMakeFiles/test_edu_math.dir/main.c.o -o test_edu_math   -L"/mnt/c/Users/noutk/OneDrive/Рабочий стол/учеба/c_graphics/1hw/c_graphics_task1/external/criterion-2.4.2/lib"  -Wl,-rpath,"/mnt/c/Users/noutk/OneDrive/Рабочий стол/учеба/c_graphics/1hw/c_graphics_task1/external/criterion-2.4.2/lib" ../libedu_math.a -lcriterion 
