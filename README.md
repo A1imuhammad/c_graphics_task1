@@ -1,4 +1,5 @@
 # c_graphics_task1
+zagirov_am
 
 1. create an empty public github repo 
 2. copy this repo to your repo(all except .git/)
